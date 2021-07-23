@@ -22,4 +22,4 @@ while(True):
         
     print("")
     count = count + 1
-    time.sleep(count*interval)
+    time.sleep(60*count*interval)
