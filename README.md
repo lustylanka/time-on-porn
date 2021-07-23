@@ -1,5 +1,5 @@
 # time-on-porn
-This is a basic data collection to see how long much time users spend/waste logged into adult websites.
+This is a basic data collection to see how long much time users spend logged into adult websites.
 
 ## xHamster logger
 Script: xhamlog.py
